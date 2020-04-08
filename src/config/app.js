@@ -1,4 +1,4 @@
 export const appConfig = {
-    apiUrl: 'try-me-44.botics.co/api',
+    apiUrl: 'http://try-me-44-prod.herokuapp.co/api',
     defaultTimeout: 5000,
 }
